@@ -17,8 +17,15 @@
 	"maxLen": 30,
 	"fontSize": "40",
 	"fontColor": "#FA81AB",
-    "fontBackgroundColor":"#FFFFFF",
+	"fontBackgroundColor":"#FFFFFF",
   	"fontType": "萝莉小猫咪体.ttf"
 }
 ```
 这里的字体你可以自己去下载喜欢的，放在目录下就可以了。图片的背景颜色是为了让图片跟聊天窗口的颜色相近，体验更好。`maxLen` 是设置图片每行的字数，调整图片文字的段落格式。
+
+
+
+我们也可以在程序运行中输入`set`进行设置
+
+![设置](使用set来设置.png)
+

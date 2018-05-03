@@ -1,0 +1,11 @@
+{
+	"maxLen": 30,
+
+	"fontSize": "40",
+
+	"fontColor": "#FA81AB",
+
+        "fontBackgroundColor":"#FFFFFF",
+  	"fontType": "¬‹¿Ú–°√®ﬂ‰ÃÂ.ttf"
+
+}
